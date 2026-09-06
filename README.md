@@ -1,4 +1,4 @@
-# 🛸 openprop
+# 🛸 opendrop
 
 <div align="center">
 
